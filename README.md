@@ -1,6 +1,6 @@
 ﻿# Simple Weather App
 
-![](https://github.com/CLewisMessina/Simple_Weather_App/blob/master/img/weather.gif)
+![](https://github.com/CLewisMessina/Simple_Weather_App/blob/master/public/img/weather.gif)
 
 ## Features:
 * Current temperature for any US zip code 
